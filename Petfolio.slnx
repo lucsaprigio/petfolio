@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Petfolio.API/Petfolio.API.csproj" />
+  <Project Path="Petfolio.Application/Petfolio.Application.csproj" />
+  <Project Path="Petfolio.Communication/Petfolio.Communication.csproj" />
+</Solution>
